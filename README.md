@@ -1,9 +1,13 @@
 #### About me
 
-I'm an ML engineer, working on cool project at the intersection of NLP and CV. 
+I'm an ML engineer, working on cool projects at the intersection of NLP and CV. I finished my PhD in 2011, worked at the Research Institute for AI (Romanian Academy) for a few years, back when phrased-based statistical machine translation was king, then as a ML engineer at Sustainalytics, and from 2020 at Adobe. 
 
-I'm active in open source area
-Guiding students, interns
+I'm active in open source, especially on Romanian NLP. Throughout the years I've published, teached and coded, all while having fun. I like to build stuff.
+
+Showcase on [HuggingFace](https://huggingface.co/dumitrescustefan):
+
+* [Named Entity Recognition playground](https://huggingface.co/spaces/dumitrescustefan/NamedEntityRecognition-Romanian)  
+* [Write with transformers](https://huggingface.co/spaces/dumitrescustefan/romanian-text-generation), but for Romanian :) 
 
 ### Working on
 
