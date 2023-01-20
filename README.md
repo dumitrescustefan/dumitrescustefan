@@ -9,7 +9,7 @@ Guiding students, interns
 
 #### Under development:
 
-* WSD
+* Word Sense Disambiguation da
 * NLI
 * Sentence segmentation
 
@@ -29,6 +29,11 @@ Guiding students, interns
 #### 2020
 
 * April: Trained an released the *first monolingual Romanian BERT model* with @ and @ .  
+
+#### 2019 and before
+
+* [RoWordNet](https://github.com/dumitrescustefan/RoWordNet) [pip package](https://pypi.org/project/rowordnet/) providing quick access to the Romanian WordNet. After all these years it's still the only python plug-and-play package for Romanian - seems to be working well :)
+* Developed [NLP-Cube](https://github.com/adobe/NLP-Cube) with @tiberiu (lead). Started as an entry in the 2018 Conll competition and evolved into a multilingual toolkit providing Tokenization, Sentence Segmentation, Lemmatization, POS and DEP parsing, trained on the Universal Dependencies dataset. Unfortunately, it's not longer actively maintained.
 
 #### Selected publications
 
