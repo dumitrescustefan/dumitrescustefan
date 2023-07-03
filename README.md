@@ -1,6 +1,9 @@
 ### About me
 
-I'm an Machine Learning Engineer, working on cool projects at the intersection of NLP and CV. I finished my PhD in 2011, worked as a Research Scientist at the Research Institute for AI (Romanian Academy) for 7 years, then switched applied ML as an ML engineer at Sustainalytics (2017-2019) and now at Adobe.
+<img align="right" width="230" height="230" src="stefan_dumitrescu.png">
+
+I'm an Machine Learning Engineer, working on cool projects at the intersection of NLP and CV. I finished my PhD in 2011, worked as a Research Scientist at the Research Institute for AI (Romanian Academy) for 7 years, then switched applied ML as an ML engineer at Sustainalytics (2017-2019) and now at Adobe. 
+
 
 I'm active in open source, especially on Romanian NLP. Throughout the years I've published, teached and coded, all while having fun. I like to build stuff.
 
@@ -8,6 +11,8 @@ Showcase on [HuggingFace](https://huggingface.co/dumitrescustefan):
 
 * [Named Entity Recognition playground](https://huggingface.co/spaces/dumitrescustefan/NamedEntityRecognition-Romanian)  
 * [Write with transformers](https://huggingface.co/spaces/dumitrescustefan/romanian-text-generation), but for Romanian :) 
+
+---
 
 ### Projects I'm proud of
 
@@ -21,7 +26,7 @@ Showcase on [HuggingFace](https://huggingface.co/dumitrescustefan):
 #### 2023
 
 * ``May`` Appeared on live TV discussing AI ([#1](https://www.youtube.com/watch?v=DrtCxIdqsNg&ab_channel=Canal33), [#2](https://www.youtube.com/watch?v=JjmlOGm4_tY&ab_channel=Canal33))
-* ``April`` Participated in [WE Smart Diaspora](https://eunivercitiesnetwork.com/west-university-of-timisoara-hosts-smart-diaspora-2023/) conference in Timisoara, Romania, presenting "The Impact of Large Language Models"
+* ``Apr`` Participated in [WE Smart Diaspora](https://eunivercitiesnetwork.com/west-university-of-timisoara-hosts-smart-diaspora-2023/) conference in Timisoara, Romania, presenting "The Impact of Large Language Models"
 
 #### 2022
 
@@ -43,9 +48,10 @@ Showcase on [HuggingFace](https://huggingface.co/dumitrescustefan):
 #### 2019 and before
 
 * [RoWordNet](https://github.com/dumitrescustefan/RoWordNet) [pip package](https://pypi.org/project/rowordnet/) providing quick access to the Romanian WordNet. After all these years it's still the only python plug-and-play package for Romanian - seems to be working well :)
-* Developed [NLP-Cube](https://github.com/adobe/NLP-Cube) with @tiberiu (lead). Started as an entry in the 2018 Conll competition and evolved into a multilingual toolkit providing Tokenization, Sentence Segmentation, Lemmatization, POS and DEP parsing, trained on the Universal Dependencies dataset.
+* Developed [NLP-Cube](https://github.com/adobe/NLP-Cube) with [Tiberiu Boros](https://github.com/tiberiu44) (lead). Started as an entry in the 2018 Conll competition and evolved into a multilingual toolkit providing Tokenization, Sentence Segmentation, Lemmatization, POS and DEP parsing, trained on the Universal Dependencies dataset.
 
-#### Selected publications
+---
+### Selected publications
 
 [Google Scholar profile](https://scholar.google.com/citations?user=UR_c_N4AAAAJ&hl=en) , h-index: 9
 
@@ -54,6 +60,5 @@ Showcase on [HuggingFace](https://huggingface.co/dumitrescustefan):
 * [Introducing RONEC - the Romanian Named Entity Corpus](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UR_c_N4AAAAJ&citation_for_view=UR_c_N4AAAAJ:maZDTaKrznsC), SD Dumitrescu, AM Avram, 2019
 * [NLP-Cube: End-to-End Raw Text Processing With Neural Networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UR_c_N4AAAAJ&citation_for_view=UR_c_N4AAAAJ:bEWYMUwI8FkC), T Boroș, SD Dumitrescu, R Burtica, 2018
 
-
-
+---
 
